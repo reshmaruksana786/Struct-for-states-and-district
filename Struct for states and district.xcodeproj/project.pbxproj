@@ -14,6 +14,7 @@
 		83AE8E44230409E000077C92 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83AE8E42230409E000077C92 /* LaunchScreen.storyboard */; };
 		83AE8E4F230409E000077C92 /* Struct_for_states_and_districtTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83AE8E4E230409E000077C92 /* Struct_for_states_and_districtTests.swift */; };
 		83AE8E5A230409E000077C92 /* Struct_for_states_and_districtUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83AE8E59230409E000077C92 /* Struct_for_states_and_districtUITests.swift */; };
+		83AE8E6C2304198F00077C92 /* Districts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83AE8E6B2304198F00077C92 /* Districts.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		83AE8E55230409E000077C92 /* Struct for states and districtUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Struct for states and districtUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		83AE8E59230409E000077C92 /* Struct_for_states_and_districtUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Struct_for_states_and_districtUITests.swift; sourceTree = "<group>"; };
 		83AE8E5B230409E000077C92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83AE8E6B2304198F00077C92 /* Districts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Districts.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				83AE8E40230409E000077C92 /* Assets.xcassets */,
 				83AE8E42230409E000077C92 /* LaunchScreen.storyboard */,
 				83AE8E45230409E000077C92 /* Info.plist */,
+				83AE8E6B2304198F00077C92 /* Districts.swift */,
 			);
 			path = "Struct for states and district";
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				83AE8E3C230409E000077C92 /* ViewController.swift in Sources */,
 				83AE8E3A230409E000077C92 /* AppDelegate.swift in Sources */,
+				83AE8E6C2304198F00077C92 /* Districts.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
